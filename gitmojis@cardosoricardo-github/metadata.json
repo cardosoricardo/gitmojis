@@ -1,0 +1,1 @@
+{"name": "GitMojis", "description": "Add a button to the top bar of the desktop with some emojis. Clicking on an emoji copies it to the clipboard.", "uuid": "gitmojis@cardosoricardo-github", "shell-version": ["3.24.2"]}
